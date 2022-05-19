@@ -6,7 +6,7 @@ This is an entity-level sentiment analysis dataset of twitter, which could be fo
 <br />
 Given a message and an entity. The task is to judge the sentiment of the message about the entity. <br /> There are three classes in this dataset: Positive, Negative and Neutral. Messages that are not relevant regarded as Neutral. <br />
 
-![](img/sent_anal.png)
+![](img/sent_anal.jpg)
 
 ## Notebooks
 - [`tf-idf-twi-sentiment-analysis.ipynb`](https://raw.githubusercontent.com/Teasotea/TweetSentimentClassifier/main/tf-idf-twi-sentiment-analysis.ipynb) - Notebook with the best accuracy score, reached with LinearSVC (accuracy = 0.801)
