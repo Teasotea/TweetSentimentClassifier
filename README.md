@@ -11,6 +11,7 @@ Given a message and an entity. The task is to judge the sentiment of the message
 ## Notebooks
 - [`tf-idf-twi-sentiment-analysis.ipynb`](https://raw.githubusercontent.com/Teasotea/TweetSentimentClassifier/main/tf-idf-twi-sentiment-analysis.ipynb) - Notebook with the best accuracy score, reached with LinearSVC (accuracy = 0.801)
 - [`tf-idf-twi-sentiment-analysis_2.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/tf-idf-twi-sentiment-analysis_2.ipynb)- Notebook with feature engineering and preprocessing steps and LinearSVC (accuracy = 0.774)
+- [`LSTM.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/LSTM.ipynb) Notebook with LSTM Network (accuracy = 0.54)
 - [`sentiment-analysis-using-transformers.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/sentiment-analysis-using-transformers.ipynb) - Notebook with Transformers (accuracy = 0.503)
 
 
