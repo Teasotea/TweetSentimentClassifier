@@ -17,3 +17,4 @@ Given a message and an entity. The task is to judge the sentiment of the message
 - [`binary-pos-neutr-sentiment-analysis-transformers.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/binary-pos-neutr-sentiment-analysis-transformers.ipynb) - Notebook with binary classification and Transformers - 2 classes: Positive, Neutral (accuracy = 0.779)
 
 ## ver02
+## ver03 sddadsasda
