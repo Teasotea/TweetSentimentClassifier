@@ -15,3 +15,5 @@ Given a message and an entity. The task is to judge the sentiment of the message
 - [`sentiment-analysis-using-transformers.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/sentiment-analysis-using-transformers.ipynb) - Notebook with Transformers (accuracy = 0.503)
 - [`binary-sentiment-analysis-using-transformers.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/binary-sentiment-analysis-using-transformers.ipynb) - Notebook with binary classification and Transformers - 2 classes: Positive, Negative (accuracy = 0.815)
 - [`binary-pos-neutr-sentiment-analysis-transformers.ipynb`](https://github.com/Teasotea/TweetSentimentClassifier/blob/main/binary-pos-neutr-sentiment-analysis-transformers.ipynb) - Notebook with binary classification and Transformers - 2 classes: Positive, Neutral (accuracy = 0.779)
+
+## ver02
